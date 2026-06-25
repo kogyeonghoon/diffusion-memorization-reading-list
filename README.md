@@ -11,6 +11,8 @@
 - Bigger Isn’t Always Memorizing: Early Stopping Overparameterized Diffusion Models, 2025, https://arxiv.org/pdf/2505.16959
 - A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective, 2025, https://arxiv.org/pdf/2509.16499
 - The Emergence of Reproducibility and Generalizability in Diffusion Models, 2026, https://arxiv.org/pdf/2310.05264
+- Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling, 2025, https://arxiv.org/pdf/2502.05743
+- Selective Underfitting in Diffusion Models, 2025, https://arxiv.org/pdf/2510.01378?
 
 ### spectral aspect
 - Generalization in diffusion models arises from geometry-adaptive harmonic representations, 2024, https://arxiv.org/pdf/2310.02557
@@ -28,6 +30,7 @@
 - Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is Geometry Adaptive, 2025, https://arxiv.org/pdf/2510.02305
 - Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold, 2026, https://arxiv.org/pdf/2602.06021
 - When Scores Learn Geometry: Rate Separations under the Manifold Hypothesis, 2026, https://arxiv.org/pdf/2509.24912
+- Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models, 2026, https://arxiv.org/pdf/2602.17846
 
 ### linear structure
 - The Hidden Linear Structure in Score-Based Models and its Application, 2023, https://arxiv.org/pdf/2311.10892
