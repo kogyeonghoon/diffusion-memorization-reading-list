@@ -22,6 +22,7 @@
 ### mechanical explanation
 - Towards a Mechanistic Explanation of Diffusion Model Generalization, 2025, https://arxiv.org/pdf/2411.19339
 - An analytic theory of creativity in convolutional diffusion models, 2025, https://arxiv.org/pdf/2412.20292
+- Locality in image diffusion models emerges from data statistics, 2025, https://arxiv.org/pdf/2509.09672
 
 ### manifold hypothesis
 - Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is Geometry Adaptive, 2025, https://arxiv.org/pdf/2510.02305
