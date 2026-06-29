@@ -12,8 +12,9 @@
 - A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective, 2025, https://arxiv.org/pdf/2509.16499
 - The Emergence of Reproducibility and Generalizability in Diffusion Models, 2026, https://arxiv.org/pdf/2310.05264
 - Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling, 2025, https://arxiv.org/pdf/2502.05743
-- Selective Underfitting in Diffusion Models, 2025, https://arxiv.org/pdf/2510.01378?
-
+- Selective Underfitting in Diffusion Models, 2025, https://arxiv.org/pdf/2510.01378
+- Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure, 2024, https://arxiv.org/pdf/2410.24060
+- 
 ### spectral aspect
 - Generalization in diffusion models arises from geometry-adaptive harmonic representations, 2024, https://arxiv.org/pdf/2310.02557
 - On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity, 2025, https://arxiv.org/pdf/2506.03719
