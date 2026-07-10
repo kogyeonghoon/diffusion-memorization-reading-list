@@ -14,7 +14,7 @@
 - Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling, 2025, https://arxiv.org/pdf/2502.05743
 - Selective Underfitting in Diffusion Models, 2025, https://arxiv.org/pdf/2510.01378
 - Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure, 2024, https://arxiv.org/pdf/2410.24060
-- 
+
 ### spectral aspect
 - Generalization in diffusion models arises from geometry-adaptive harmonic representations, 2024, https://arxiv.org/pdf/2310.02557
 - On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity, 2025, https://arxiv.org/pdf/2506.03719
@@ -26,6 +26,7 @@
 - Towards a Mechanistic Explanation of Diffusion Model Generalization, 2025, https://arxiv.org/pdf/2411.19339
 - An analytic theory of creativity in convolutional diffusion models, 2025, https://arxiv.org/pdf/2412.20292
 - Locality in image diffusion models emerges from data statistics, 2025, https://arxiv.org/pdf/2509.09672
+- Origins of Creativity in Attention Based Diffusion Models, 2025, https://arxiv.org/pdf/2506.17324
 
 ### manifold hypothesis
 - Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is Geometry Adaptive, 2025, https://arxiv.org/pdf/2510.02305
