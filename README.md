@@ -15,6 +15,7 @@
 - Selective Underfitting in Diffusion Models, 2025, https://arxiv.org/pdf/2510.01378
 - Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure, 2024, https://arxiv.org/pdf/2410.24060
 - Generalization through variance: how noise shapes inductive biases in diffusion models, 2025, https://arxiv.org/pdf/2504.12532
+- On the Interpolation Effect of Score Smoothing in Diffusion Models, 2026, https://arxiv.org/pdf/2502.19499
 
 ### spectral aspect
 - Generalization in diffusion models arises from geometry-adaptive harmonic representations, 2024, https://arxiv.org/pdf/2310.02557
