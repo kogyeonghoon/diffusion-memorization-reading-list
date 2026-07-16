@@ -39,6 +39,7 @@
 
 ### linear structure
 - The Hidden Linear Structure in Score-Based Models and its Application, 2023, https://arxiv.org/pdf/2311.10892
+- The Unreasonable Effectiveness of Gaussian Score Approximation for Diffusion Models and its Applications, 2024, https://arxiv.org/pdf/2412.09726
 
 ### denoiser covariance
 - Covariance-aware sampling for Diffusion Models, 2026, https://arxiv.org/pdf/2605.13910
