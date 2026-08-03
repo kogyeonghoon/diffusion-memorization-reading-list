@@ -24,6 +24,7 @@
 - An Analytical Theory of Spectral Bias in the Learning Dynamics of Diffusion Models, 2025, https://arxiv.org/pdf/2503.03206
 - Wavelet Score-Based Generative Modeling, 2022, https://arxiv.org/pdf/2208.05003
 - Diffusion is spectral autoregression, 2024, https://sander.ai/2024/09/02/spectral-autoregression.html
+- Where the Score Lives: A Wavelet View of Diffusion, 2026, https://arxiv.org/pdf/2606.08309
 
 ### mechanical explanation
 - Towards a Mechanistic Explanation of Diffusion Model Generalization, 2025, https://arxiv.org/pdf/2411.19339
