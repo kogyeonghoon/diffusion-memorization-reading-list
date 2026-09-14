@@ -17,7 +17,8 @@
 - Generalization through variance: how noise shapes inductive biases in diffusion models, 2025, https://arxiv.org/pdf/2504.12532
 - On the Interpolation Effect of Score Smoothing in Diffusion Models, 2026, https://arxiv.org/pdf/2502.19499
 - A Random Matrix Theory Perspective on the Consistency of Diffusion Models, 2026, https://arxiv.org/pdf/2602.02908
-
+- Understanding diffusion models requires rethinking (again) generalization, 2026, https://arxiv.org/pdf/2605.06077
+- 
 ### spectral aspect
 - Generalization in diffusion models arises from geometry-adaptive harmonic representations, 2024, https://arxiv.org/pdf/2310.02557
 - On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity, 2025, https://arxiv.org/pdf/2506.03719
@@ -49,6 +50,7 @@
 - Generative Modelling With Inverse Heat Dissipation, 2023, https://arxiv.org/pdf/2206.13397
 - Wasserstein proximal operators describe score-based generative models and resolve memorization, 2024, https://arxiv.org/pdf/2402.06162
 - Are We Really Learning the Score Function? Reinterpreting Diffusion Models Through Wasserstein Gradient Flow Matching, 2025, https://arxiv.org/pdf/2509.00336
+- Hierarchical Koopman Diffusion: Fast Generation with Interpretable Diffusion Trajectory, 2025, https://arxiv.org/pdf/2510.12220
 
 ### image dataset analysis (classic)
 - Statistics of natural image categories, 2003, https://web.mit.edu/torralba/www/ne3302.pdf
