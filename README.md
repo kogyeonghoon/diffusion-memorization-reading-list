@@ -40,10 +40,16 @@
 - When Scores Learn Geometry: Rate Separations under the Manifold Hypothesis, 2026, https://arxiv.org/pdf/2509.24912
 - Two Calm Ends and the Wild Middle: A Geometric Picture of Memorization in Diffusion Models, 2026, https://arxiv.org/pdf/2602.17846
 
+### structures of data
+- A Phase Transition in Diffusion Models Reveals the Hierarchical Nature of Data, 2024, https://arxiv.org/pdf/2402.16991
+
 ### linear structure
 - The Hidden Linear Structure in Score-Based Models and its Application, 2023, https://arxiv.org/pdf/2311.10892
 - The Unreasonable Effectiveness of Gaussian Score Approximation for Diffusion Models and its Applications, 2024, https://arxiv.org/pdf/2412.09726
 - Generalization Dynamics of Linear Diffusion Models, 2025, https://arxiv.org/pdf/2505.24769
+
+### associative memory
+- A Phase Transition in Diffusion Models Reveals the Hierarchical Nature of Data, 2026, https://arxiv.org/pdf/2505.21777
 
 ### denoiser covariance
 - Covariance-aware sampling for Diffusion Models, 2026, https://arxiv.org/pdf/2605.13910
