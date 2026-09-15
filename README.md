@@ -18,7 +18,7 @@
 - On the Interpolation Effect of Score Smoothing in Diffusion Models, 2026, https://arxiv.org/pdf/2502.19499
 - A Random Matrix Theory Perspective on the Consistency of Diffusion Models, 2026, https://arxiv.org/pdf/2602.02908
 - Understanding diffusion models requires rethinking (again) generalization, 2026, https://arxiv.org/pdf/2605.06077
-- 
+
 ### spectral aspect
 - Generalization in diffusion models arises from geometry-adaptive harmonic representations, 2024, https://arxiv.org/pdf/2310.02557
 - On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity, 2025, https://arxiv.org/pdf/2506.03719
@@ -42,6 +42,7 @@
 ### linear structure
 - The Hidden Linear Structure in Score-Based Models and its Application, 2023, https://arxiv.org/pdf/2311.10892
 - The Unreasonable Effectiveness of Gaussian Score Approximation for Diffusion Models and its Applications, 2024, https://arxiv.org/pdf/2412.09726
+- Generalization Dynamics of Linear Diffusion Models, 2025, https://arxiv.org/pdf/2505.24769
 
 ### denoiser covariance
 - Covariance-aware sampling for Diffusion Models, 2026, https://arxiv.org/pdf/2605.13910
