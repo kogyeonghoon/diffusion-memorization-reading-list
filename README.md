@@ -49,7 +49,7 @@
 - Generalization Dynamics of Linear Diffusion Models, 2025, https://arxiv.org/pdf/2505.24769
 
 ### associative memory
-- A Phase Transition in Diffusion Models Reveals the Hierarchical Nature of Data, 2026, https://arxiv.org/pdf/2505.21777
+- Memorization to Generalization: Emergence of Diffusion Models from Associative Memory, 2026, https://arxiv.org/pdf/2505.21777
 
 ### denoiser covariance
 - Covariance-aware sampling for Diffusion Models, 2026, https://arxiv.org/pdf/2605.13910
