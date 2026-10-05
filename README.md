@@ -18,6 +18,7 @@
 - On the Interpolation Effect of Score Smoothing in Diffusion Models, 2026, https://arxiv.org/pdf/2502.19499
 - A Random Matrix Theory Perspective on the Consistency of Diffusion Models, 2026, https://arxiv.org/pdf/2602.02908
 - Understanding diffusion models requires rethinking (again) generalization, 2026, https://arxiv.org/pdf/2605.06077
+- Manifolds, Random Matrices and Spectral Gaps: The geometric phases of generative diffusion, 2024, https://arxiv.org/pdf/2410.05898
 
 ### spectral aspect
 - Generalization in diffusion models arises from geometry-adaptive harmonic representations, 2024, https://arxiv.org/pdf/2310.02557
