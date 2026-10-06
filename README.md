@@ -28,6 +28,9 @@
 - Diffusion is spectral autoregression, 2024, https://sander.ai/2024/09/02/spectral-autoregression.html
 - Where the Score Lives: A Wavelet View of Diffusion, 2026, https://arxiv.org/pdf/2606.08309
 
+### diffusion geometry
+- The Spacetime of Diffusion Models: An Information Geometry Perspective, 2026, https://arxiv.org/pdf/2505.17517
+ 
 ### mechanical explanation
 - Towards a Mechanistic Explanation of Diffusion Model Generalization, 2025, https://arxiv.org/pdf/2411.19339
 - An analytic theory of creativity in convolutional diffusion models, 2025, https://arxiv.org/pdf/2412.20292
