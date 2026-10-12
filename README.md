@@ -28,6 +28,9 @@
 - Diffusion is spectral autoregression, 2024, https://sander.ai/2024/09/02/spectral-autoregression.html
 - Where the Score Lives: A Wavelet View of Diffusion, 2026, https://arxiv.org/pdf/2606.08309
 
+### diffusion dynamics / FP equation
+- An Analysis of Regularization and Fokker–Planck Residuals in Diffusion Models for Image Generation, 2026, https://arxiv.org/pdf/2604.15171v1
+
 ### diffusion geometry
 - The Spacetime of Diffusion Models: An Information Geometry Perspective, 2026, https://arxiv.org/pdf/2505.17517
  
