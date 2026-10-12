@@ -29,6 +29,7 @@
 - Where the Score Lives: A Wavelet View of Diffusion, 2026, https://arxiv.org/pdf/2606.08309
 
 ### diffusion dynamics / FP equation
+- FP-Diffusion: Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation, 2023, https://arxiv.org/pdf/2210.04296
 - An Analysis of Regularization and Fokker–Planck Residuals in Diffusion Models for Image Generation, 2026, https://arxiv.org/pdf/2604.15171v1
 
 ### diffusion geometry
