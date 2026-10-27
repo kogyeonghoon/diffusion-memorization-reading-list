@@ -27,6 +27,7 @@
 - Wavelet Score-Based Generative Modeling, 2022, https://arxiv.org/pdf/2208.05003
 - Diffusion is spectral autoregression, 2024, https://sander.ai/2024/09/02/spectral-autoregression.html
 - Where the Score Lives: A Wavelet View of Diffusion, 2026, https://arxiv.org/pdf/2606.08309
+- A Fourier Space Perspective on Diffusion Models, 2025, https://arxiv.org/pdf/2505.11278v1
 
 ### diffusion dynamics / FP equation
 - FP-Diffusion: Improving Score-based Diffusion Models by Enforcing the Underlying Score Fokker-Planck Equation, 2023, https://arxiv.org/pdf/2210.04296
